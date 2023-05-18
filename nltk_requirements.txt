@@ -1,0 +1,12 @@
+open a python console and type:
+
+import nltk 
+and run commands bellow
+
+
+nltk.download('stopwords')
+nltk.download('punkt')
+
+
+after complete go back to main application and run.
+
