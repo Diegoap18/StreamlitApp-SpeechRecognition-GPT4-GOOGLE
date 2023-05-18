@@ -1,4 +1,4 @@
-# Streamlit App Speech Recognition using GPT4 and GOOGLE STT.
+# Streamlit App Speech Recognition using GPT4 and Google stt.
  
 This repository is to share a Application Streamlit to Speech-To-text using ChatGPT-4 and Google STT.  <br >
 
